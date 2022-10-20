@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Elementi HTML</title>
+    </head>
+<body>
+		<h1><font face="Georgia, Times New Roman, Times, serif"> CV Luigi Cimino per l'accademy Service Now </font></h1>
+        <table>
+            <tr>
+                <th><font color="#1E90FF" >Nome</th> <th>Cognome</th> <th>Email</font></th>
+            </tr>
+            <tr>
+                <td>Maria</td> <td>Verdi</td> <td>mariaverdi@gmail.com</td>
+            </tr>
+        
+<h3> <font color="#1E90FF" > Nazionalità: <font color="#00BFFF">&nbsp;Italiana </font> </font>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        <font color="#1E90FF">Telefono:<font color="#00BFFF">&nbsp;3735202639 </font> </font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#1E90FF"> Data di Nascita: <font color="#00BFFF">&nbsp;03/11/1993 </font> </font> </h3>
+<h3> <font color="#1E90FF"> Indirizzo email: <font color="#00BFFF"> <a href="https://www.google.com/intl/it/gmail/about/"> l.cimino@studenti.uniba.it </a> </font></a> </font></h3>
+        
+
+        </table>
+                
+
+ <img src="foto Luigi Cimino.JPEG" height="145" width="135" align="right" Hspace="705" Vspace="35"  Border="0" />
+<br><br>
+
+                <h2> <font color="#1E90FF"> Titolo di studio </font> </h2>  
+<ul>
+                <h4> <li><font color="#00BFFF"> Laurea triennale in matematica, quasi magistrale (che noia!) </font></li> </h4>
+                <h5> <i> Università degli studi di Bari  Aldo Moro </i> </h5> <iframe src="https://www.google.com/maps/d/embed?mid=1CFv58Tm6XNLR-AbEmvEeLfS_1I4&hl=en_US&ehbc=2E312F" width="500" height="150"></iframe>
+                <h4> <li Hspace="45"><font color="#00BFFF">Diploma liceo scientifico</font></li> </h4>
+</ul>
+                <h2> <font color="#1E90FF"> Conferenze e seminari </font> </h2>
+<ul>
+                <h4> <li><font color="#00BFFF"> SMI Scuola Matematica Interuniversitaria </font></li> </h4>
+                <h5> <i> Università degli studi di Perugia </i> </h5>
+
+</ul>
+<br><br><br><br><br><br><br><br>
+<h3> <font color="#1E90FF"> Immagini bonus </font> </h3>
+<img src="greta.png" height="345" width="335" align="left" Hspace="45" Vspace="35"  Border="0" />
+<img src="yumimaya.JPEG" height="345" width="235" align="left" Hspace="45" Vspace="35"  Border="0" />
+
+
+	</body>
+</html>
